@@ -1,8 +1,7 @@
 ---
 layout: post
 title: My experience at NEW Leadership Oregon
-tags:
-- conference
+categories: Conference
 ---
 
 This summer I had the privilege of attending NEW Leadership Oregon, a women's leadership conference hosted by the Center for Women's Leadership at Portland State University. The conference consisted of 6 days of experiential learning in the fields of leadership, public speaking, communication styles, and networking. The conference focuses on the political arena and becoming involved in local politics. Since I’m just getting back into writing, I’ll summarize each day and what I learned. 

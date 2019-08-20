@@ -17,18 +17,22 @@ These are class projects, and each link goes to a GitHub repo for each class. My
 I worked on these at a web agency that specializes in using the Umbraco CMS. 
 
 #### Design implementation
-I alternated my time between bug fixes, feature additions, and implementing new designs. I used CSS, C# (Razor), and Javascript. I also did some browser testing, UX design/research, and even converted some of the older sites to be responsive.
-* Leyard [[link]](https://www.leyard.com/)
-* Muskoka Woods [[link]](https://muskokawoods.com/)
-* Mint Industry Research Council [[link]](https://www.usmintindustry.com/)
+I alternated my time between bug fixes, feature additions, and implementing new designs. My work involved portions of a page rather than the entire site. I used CSS, C# (Razor), and Javascript. I also did some browser testing, UX design/research, and even converted some of the older sites to be responsive. Here are some of my favorites:
+* Leyard [[link]](https://www.leyard.com/)  
+    * Homepage slider, product pages
 * Grant European Travel [[link]](https://www.getours.com)
+    * Header, tour pages, trip boxes
 * S.R.Smith [[link]](https://srsmith.com/)
+    * Header, product pages
 * Celestron [[link]](https://www.celestron.com/)
+    * User stories
 
 #### Accessibility-specific work
 My proudest work is the accessibility improvements, testing, audits, documentation, and teaching I did. 
-* Rivermark Credit Union [[link]](https://www.rivermarkcu.org)  
+* Rivermark Credit Union [[link]](https://www.rivermarkcu.org)
+    * Homepage, contact us page, buttons, links, images, etc
 * University of Nevada, Reno Office of IT [[link]](https://oit.unr.edu/) 
+    * Homepage
 
 ## Other
 

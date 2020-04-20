@@ -4,11 +4,22 @@ title: Projects
 permalink: /projects/
 ---
 
+## Data Analysis projects
+I've been learning statistics and data analysis using Python. Here are some projects I've worked on.
+
+#### Computing4Change: Analyzing maternal and infant mortality 
+
+I worked on this during Computing4Change, which is a week-long conference/workshop/group project that uses data science to analyze a pertinent social issue. It was an incredible experience because 20 or so college students and mentors came together to help each other learn these tools and think critically about the issues we were looking at. I looked at how the mother's health insurance (public, private, uninsured) influences her and her infant's chances of survival within the first year of birth, using data from the CDC birth and death records. I subsetted the data mostly with R, and made visualizations with MatPlotLib. Here is what I found.
+![C4C image](/images/c4c1.png)
+![C4C image](/images/c4c2.png)
+![C4C image](/images/c4c3.png)
+![C4C image](/images/c4c4.png)
+
 ## Programming projects
 These are class projects, and each link goes to a GitHub repo for each class. My favorite project was the web development projects year calendar and class sceduler, as well as the Python hangman game. 
 
 * Javascript, NodeJS, CSS, HTML: [class scheduler, year calendar, weather and more](https://github.com/csrs/CS290-web-dev)
-    * See live code [here](https://website-cs290.herokuapp.com) 
+* See live code [here](https://website-cs290.herokuapp.com) 
 * Python: [hangman](https://github.com/csrs/CS160-python) & [more advanced](https://github.com/csrs/CS162-python)
 * C: [tic tac toe game and more ](https://github.com/csrs/CS133C)
 * C++: [data structures](https://github.com/csrs/CS260-data-structures)
@@ -18,21 +29,21 @@ I worked on these at a web agency that specializes in using the Umbraco CMS.
 
 #### Design implementation
 I alternated my time between bug fixes, feature additions, and implementing new designs. My work involved portions of a page rather than the entire site. I used CSS, C# (Razor), and Javascript. I also did some browser testing, UX design/research, and even converted some of the older sites to be responsive. Here are some of my favorites:
-* Leyard [[link]](https://www.leyard.com/)  
-    * Homepage slider, product pages
+* Leyard [[link]](https://www.leyard.com/) 
+* Homepage slider, product pages
 * Grant European Travel [[link]](https://www.getours.com)
-    * Header, tour pages, trip boxes
+* Header, tour pages, trip boxes
 * S.R.Smith [[link]](https://srsmith.com/)
-    * Header, product pages
+* Header, product pages
 * Celestron [[link]](https://www.celestron.com/)
-    * User stories
+* User stories
 
 #### Accessibility-specific work
 My proudest work is the accessibility improvements, testing, audits, documentation, and teaching I did. 
 * Rivermark Credit Union [[link]](https://www.rivermarkcu.org)
-    * Homepage, contact us page, buttons, links, images, etc
+* Homepage, contact us page, buttons, links, images, etc
 * University of Nevada, Reno Office of IT [[link]](https://oit.unr.edu/) 
-    * Homepage
+* Homepage
 
 ## Other
 

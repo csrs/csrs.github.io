@@ -6,12 +6,13 @@ permalink: /about/
 
 Hello, and welcome to my website. Here you'll find a little bit more about myself. I took a number of years off between graduating high school and starting college (where I am now), so my timeline looks a bit different than most.  
 
+I'm interested in front-end development, and have been teaching myself some statistics and data science on the side. 
+
 ## Current/Future...
-#### Incoming Software Engineering Intern at Mapbox
-June 2020 - August 2020
+#### Software Engineering Intern at Mapbox - rescinded due to COVID-19
 
 #### Computer Science student
-I have taken coursework in Python, C, C++, and Web development.
+I have taken coursework in Python, Javascript, C, C++, and Web development.
 
 ## Previously...
 #### Community Manager at Mozilla

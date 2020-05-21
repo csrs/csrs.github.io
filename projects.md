@@ -15,6 +15,8 @@ From the data and analysis that I conducted, I found that the mortality rates an
 
 There are a few things I would do differently next time I work on a project like this, first and foremost being that I would keep all the data and code I used. Unfortunately, I didn't do this for this project. Because of this, I've included notes under each of the slides with the information that I can remember. 
 
+I am curious if these results are different in states that expanded Medicaid, versus those that haven't, and states that have the 60-day pregnancy/postpartum Medicaid expansion policy.
+
 I have no formal medical or epidemiology training so any connections or correlations I have made are just my own, based on the data sets that I used. I used the 2016 CDC Live Birth/Infant Death Linked File, which links together all birth and infant death records in the US for the year 2016.
 
 ![C4C image](/images/c4c1.png)
